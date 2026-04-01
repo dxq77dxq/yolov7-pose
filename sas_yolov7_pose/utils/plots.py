@@ -16,7 +16,6 @@ import yaml
 from PIL import Image, ImageDraw, ImageFont
 
 from sas_yolov7_pose.utils.general import xywh2xyxy, xyxy2xywh
-from sas_yolov7_pose.utils.metrics import fitness
 
 # Settings
 # matplotlib.rc('font', **{'size': 11})
